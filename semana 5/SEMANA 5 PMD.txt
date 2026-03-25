@@ -1,0 +1,15 @@
+ATIVIDADE DA SEMANA 5 DE PMD
+
+1- LISTAR O REQUISITOS:
+  - FUNCAIONAIS
+  - NÃO FUNCIONAIS
+
+2- FAZER UM BACKLOG
+
+3- CLASSIFICAR A PRIORIZAÇÃO DO QUE PRECISAR SER FEITO E COMO O SISTEMA DEVE SER
+
+4- RESPONDER:
+   - Protótipo (Figma ou papel)
+   - Banco de dados pronto
+   - Tela de login funcionando
+   - Sistema básico rodando
