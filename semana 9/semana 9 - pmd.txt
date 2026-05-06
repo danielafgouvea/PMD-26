@@ -1,0 +1,15 @@
+Situação-problema:
+
+Um grupo de alunos quer criar um aplicativo para organizar campeonatos de jogos da escola (Free Fire, FIFA, etc.).
+Eles estimaram os seguintes custos:
+
+Hospedagem do sistema: R$ 40 por mês
+Domínio do site: R$ 50 por ano
+Divulgação nas redes sociais: R$ 60
+O aplicativo cobrará R$ 10 de inscrição por jogador no campeonato.
+Cada campeonato terá 30 jogadores inscritos.
+
+Responda:
+1) Qual será o custo inicial do projeto?
+2) Quanto o aplicativo arrecada em um campeonato?
+3) O projeto parece viável financeiramente? Explique.
