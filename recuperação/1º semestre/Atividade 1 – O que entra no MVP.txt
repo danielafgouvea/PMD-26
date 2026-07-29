@@ -1,0 +1,35 @@
+Atividade 1 – O que entra no MVP?
+Divida a sala em grupos.
+Situação
+Vocês vão criar um aplicativo para organizar estudos.
+Escolham apenas 5 funcionalidades essenciais.
+Lista:
+Cadastro de usuário
+Login
+Agenda de estudos
+Chat entre alunos
+Ranking
+Notificações
+Calendário
+Inteligência Artificial
+Compartilhar nas redes sociais
+Lista de tarefas
+Cada grupo deve escolher apenas cinco.
+Depois explicar:
+"Por que essas cinco são as mais importantes?"
+
+Atividade 2 – Criando um MVP
+Em grupos.
+Cada grupo sorteia uma ideia.
+Exemplos:
+Aplicativo de biblioteca
+Aplicativo de pet shop
+Aplicativo de restaurante
+Aplicativo para escola
+Aplicativo de carona
+Aplicativo de academia
+Responder:
+Qual é o problema?
+Quem vai usar?
+Quais são as 3 funcionalidades mais importantes?
+O que ficará para uma próxima versão?
