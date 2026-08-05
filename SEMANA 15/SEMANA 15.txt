@@ -1,0 +1,15 @@
+
+Leia o texto sobre MVP e responda às questões abaixo com suas próprias palavras.
+
+1. O que significa MVP e qual é o seu principal objetivo no desenvolvimento de um projeto?
+2. Explique por que um MVP não precisa estar perfeito para ser apresentado aos usuários.
+3. No exemplo dos brigadeiros, por que os alunos fazem apenas 20 unidades antes de produzir 500?
+4. Imagine que você criou um aplicativo para ajudar estudantes a organizarem seus trabalhos escolares. Qual seria a funcionalidade mais importante para testar primeiro? Justifique sua resposta.
+5. Por que o feedback dos usuários é importante durante o teste de um MVP?
+6. Cite uma dificuldade que um usuário poderia encontrar ao testar um aplicativo e explique como essa informação pode ajudar a melhorar o produto.
+7. O WhatsApp e o Instagram começaram com poucas funcionalidades. O que essa estratégia tem em comum com o conceito de MVP?
+8. Durante a atividade prática, um aluno faz o papel de observador. Qual é a importância dessa função para o sucesso do teste?
+9. Você acredita que é melhor descobrir erros antes ou depois de investir muito tempo e dinheiro em um projeto? Explique sua resposta.
+10. Imagine que seu grupo criou um aplicativo para facilitar a comunicação entre alunos e professores. Descreva um MVP para essa ideia e explique como vocês poderiam testá-lo.
+Desafio Final
+11. Após estudar o conceito de MVP, explique como ele pode ajudar empreendedores, empresas e desenvolvedores a economizar tempo, dinheiro e esforço.
