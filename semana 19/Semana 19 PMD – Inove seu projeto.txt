@@ -1,0 +1,40 @@
+Atividade final – "Inove seu projeto"
+
+Grupos do TCC.
+
+Cada grupo deverá pegar o projeto que já está desenvolvendo e aplicar 3 ferramentas:
+
+Etapa 1 – Brainstorming
+Criar 5 ideias para melhorar o projeto.
+
+Etapa 2 – MVP
+
+Responder:
+
+Qual é a versão mais simples do nosso produto que já poderia ser testada?
+
+
+Etapa 3 – Matriz de priorização
+
+Escolher as 3 funcionalidades mais importantes.
+
+Preencher a tabela:
+
+Funcionalidade         Impacto      Esforço       Prioridade
+1.
+
+
+
+2.
+
+
+
+3.
+
+
+
+
+Etapa 4 – Apresentação
+Cada grupo terá 2 minutos para apresentar:
+
+"Nosso projeto era assim. Identificamos este problema. Utilizamos estas ferramentas e decidimos fazer estas mudanças."
