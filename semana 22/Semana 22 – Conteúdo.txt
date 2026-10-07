@@ -1,0 +1,26 @@
+Semana 22 – Avaliação Final do Público-Alvo
+
+O que é avaliação do público-alvo?
+É a etapa em que coletamos e analisamos as opiniões das pessoas para verificar se um projeto atende às suas necessidades e expectativas.
+
+Público-alvo: grupo de pessoas para quem o produto ou serviço foi criado.
+
+Etapas da avaliação final
+Coletar dados: aplicar questionários, entrevistas ou pesquisas.
+Analisar as respostas: identificar opiniões, dificuldades e sugestões.
+Verificar os resultados: avaliar se o projeto atende às necessidades do público.
+Realizar ajustes: melhorar o projeto com base nos resultados da pesquisa.
+
+Exemplo prático
+
+Uma equipe criou um aplicativo para organizar as tarefas dos estudantes.
+
+Após testar o aplicativo, perguntou aos alunos:
+
+O aplicativo é fácil de usar?
+Ele ajuda a organizar as tarefas?
+O que poderia melhorar?
+
+Resultado: muitos alunos gostaram do aplicativo, mas pediram um calendário de provas.
+Ajuste: a equipe decide incluir um calendário de provas para atender à necessidade identificada.
+Conclusão: avaliar o público-alvo ajuda a identificar melhorias e aumentar as chances de o projeto atender às necessidades dos usuários.

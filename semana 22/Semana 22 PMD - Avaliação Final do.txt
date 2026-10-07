@@ -1,0 +1,24 @@
+Semana 22 PMD - Avaliação Final do Público Alvo
+
+Atividade em duplas de 2.
+
+Situação-problema: uma equipe criou um aplicativo para ajudar os estudantes a organizar suas tarefas escolares. Após apresentar o aplicativo aos colegas, realizou uma pesquisa.
+
+Resultados da pesquisa:
+
+8 alunos disseram que o aplicativo é fácil de usar.
+5 alunos disseram que gostariam de receber lembretes de tarefas.
+3 alunos disseram que as informações estão confusas.
+
+Responda e faça a entrega no AVA:
+1- Qual é o público-alvo desse aplicativo?
+2- O que a equipe descobriu com a pesquisa?
+3- Qual melhoria poderia ser feita no aplicativo?
+4- Por que é importante ouvir a opinião dos usuários antes de finalizar um projeto?
+5- Como a equipe pode verificar se as melhorias deram certo?
+
+Depois de responder às perguntas anteriores, responda:
+1- Problema identificado: o que precisa melhorar?
+2- Ajuste proposto: qual mudança será realizada?
+3- Justificativa: qual resposta da pesquisa motivou essa mudança?
+4- Resultado esperado: como a mudança ajudará o público-alvo?
